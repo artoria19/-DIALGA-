@@ -1,0 +1,13 @@
+
+   
+   ***
+
+   #####echo "# -DIALGA-" >> README.md 
+   ####git init 
+   ####git add README.md 
+   ###git commit -m "first commit" 
+   ###git branch -M main 
+   ##git remote add origin https://github.com/artoria19/-DIALGA-.git
+   ##git push -u source gốc
+   
+   ***
